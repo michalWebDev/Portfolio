@@ -548,7 +548,7 @@ from{width: 0;}
 to {width: 100%;}
 }
 
-@media (max-width: 768px)
+@media (max-width: 768px), (max-width: 480px)
 {
 
 	body 
